@@ -8,9 +8,6 @@ Thank you for visiting. I am Samuel Bentz, a Christian software engineer located
 
 *Suaviter in modo, fortiter in re*
 
-### About Me
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
