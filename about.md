@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my personal site.
+Thank you for visiting. I am Samuel Bentz, a Christian software engineer located in Denver, Colorado. Early morning thoughts organized.
 
-### More Information
+*Suaviter in modo, fortiter in re*
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
