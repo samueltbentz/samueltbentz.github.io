@@ -4,6 +4,7 @@ layout: default
 
 <article class="post">
   <img id="post_image" src="" />
+  <p id="hidden">{{ page.image }}</p>>
 
   <h1>{{ page.title }}</h1>
 
@@ -18,8 +19,9 @@ layout: default
   {% include disqus.html %}
   
   <script>
+    img_p = document.getElementById('hidden').innerHTML;
     var img = document.getElementById('post_image'); 
-    img.src = "https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/usa.jpeg"
+    img.src = img_p
   </script>
 </article>
 
