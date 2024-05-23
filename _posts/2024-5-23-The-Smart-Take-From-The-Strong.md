@@ -2,9 +2,8 @@
 layout: post
 title: The Smart Take From the Strong
 image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/washington.jpeg
+subtitle: Don’t Stand for a Battle Until You Can Win
 ---
-
-#### Don’t Stand for a Battle Until You Can Win
 
 The Cinderella story of the 1996 March Madness season was the Princeton Tigers. In a low-scoring game, they defeated the defending champions and college basketball juggernaut, UCLA Bruins, as a 14-seed in the first round of the NCAA tournament. Led by Hall of Fame coach, Pete Carril, the underdog Tigers employed what is now known as the Princeton offense which Carril summarized in a phrase “the strong take from the weak but the smart take from the strong.”
 
