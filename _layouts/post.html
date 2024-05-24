@@ -3,10 +3,6 @@ layout: default
 ---
 
 <article class="post">
-  <meta  id="meta_image" name="twitter:image" content="">
-  <meta id="meta_image" property="og:image" content="">
-
-
   <img class="image_size" id="post_image" src="" />
   <p class="hidden" id="hidden">{{ page.image }}</p>
 
@@ -26,11 +22,17 @@ layout: default
   <script>
     let img_p = document.getElementById('hidden').innerHTML;
     let img = document.getElementById('post_image'); 
-    document
-      .getElementsByTagName('meta')
-      .namedItem('twitter:image')
-      .setAttribute('content',img_p)
     img.src = img_p
+
+    let img = img_find();
+    let ogmetatag = document.createElement('meta');
+    ogmetatag.setAttribute('property', 'og:image');
+    ogmetatag.setAttribute('content', img[0]);
+    document.head.appendChild(ogmetatag);
+    let twitter = document.createElement('meta');
+    twitter.setAttribute('name', 'twitter:image');
+    twitter.setAttribute('content', img[0]);
+    document.head.appendChild(twitter);
   </script>
 </article>
 
