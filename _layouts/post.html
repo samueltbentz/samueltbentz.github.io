@@ -26,9 +26,11 @@ layout: default
   <script>
     let img_p = document.getElementById('hidden').innerHTML;
     let img = document.getElementById('post_image'); 
-    let img_meta = document.getElementById('meta_image'); 
+    document
+      .getElementsByTagName('meta')
+      .namedItem('twitter:image')
+      .setAttribute('content',img_p)
     img.src = img_p
-    img_meta.content = img_p
   </script>
 </article>
 
