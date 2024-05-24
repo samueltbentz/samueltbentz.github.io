@@ -3,6 +3,10 @@ layout: default
 ---
 
 <article class="post">
+  <meta  id="meta_image" name="twitter:image" content="">
+  <meta id="meta_image" property="og:image" content="">
+
+
   <img class="image_size" id="post_image" src="" />
   <p class="hidden" id="hidden">{{ page.image }}</p>
 
@@ -20,9 +24,11 @@ layout: default
   {% include disqus.html %}
   
   <script>
-    img_p = document.getElementById('hidden').innerHTML;
-    var img = document.getElementById('post_image'); 
+    let img_p = document.getElementById('hidden').innerHTML;
+    let img = document.getElementById('post_image'); 
+    let img_meta = document.getElementById('meta_image'); 
     img.src = img_p
+    img_meta.content = img_p
   </script>
 </article>
 
