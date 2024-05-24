@@ -23,15 +23,6 @@ layout: default
     let img_p = document.getElementById('hidden').innerHTML;
     let img = document.getElementById('post_image'); 
     img.src = img_p
-
-    let ogmetatag = document.createElement('meta');
-    ogmetatag.setAttribute('property', 'og:image');
-    ogmetatag.setAttribute('content', img_p);
-    document.head.appendChild(ogmetatag);
-    let twitter = document.createElement('meta');
-    twitter.setAttribute('name', 'twitter:image');
-    twitter.setAttribute('content', img_p);
-    document.head.appendChild(twitter);
   </script>
 </article>
 
