@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smoking Flax
-image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/scythe.png
+image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/scythe.jpg
 subtitle: When Normal is Weird
 ---
 
