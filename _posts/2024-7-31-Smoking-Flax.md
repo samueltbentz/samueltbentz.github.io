@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Smoking Flax
-image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/scythe.jpeg
-subtitle: Respecting Those Who Respect Reality
+image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/scythe.png
+subtitle: When Normal is Weird
 ---
 
 Journalist Matt Taibbi of Racket News recently went on Tucker Carlson's show to discuss Russia and the media in our upside down world. Towards the end of the interview, they began discussing the role of our cultural elites today and their commitment to seeing the nation destroyed. Tucker expressed that today's battle is deeper than elites simply being motivated by financial gain but rather what we are seeing is spiritual. He explains, "I think they want to extinguish this society. I don't see a rational explanation for any of this behavior at all. It doesn't advance anyone's aims, including their own." He further explains that for the elites in DC, both left and right, it is not about outcomes. It is evident, as Tucker observes, that people in D.C. don't merely look down on the rest of America but openly hate the people they purport to represent. There is actual and real hostility present. Tucker goes on to say, "Imagine a Democrat winning any county in West Virginia." Taibbi immediately responds by saying, "Well, they wouldn't want to win." The populist movement in support of Donald Trump is growing and its fundamental ethos is a rejection of those D.C. elites. Tucker explains, referring to everyday Americans. "That's Trump's secret, he doesn't hate them." Taibbi, in turn responds by saying, “He loves them."
