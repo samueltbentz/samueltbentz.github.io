@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![profile]({{ site.baseurl }}/usa.jpeg "profile")
+![profile]({{ site.baseurl }}/images/co.jpeg "profile")
 
 I am Samuel Bentz, a Christian software engineer located in Denver, Colorado. I am a deacon at a CREC church in Denver, Colorado and graduate of Westmont College where I played four years of collegiate basketball.
 
