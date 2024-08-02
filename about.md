@@ -6,7 +6,7 @@ permalink: /about/
 
 ![profile]({{ site.baseurl }}/usa.jpeg "profile")
 
-I am Samuel Bentz, a Christian software engineer located in Denver, Colorado. I am a deacon at a CREC church in Denver, Colorado and graduate of Westmont College where I played four years of collegiate basketball.
+Samuel Bentz is a Christian software engineer located in Denver, Colorado. He is a deacon at a CREC church in Denver, Colorado and graduate of Westmont College where he played four years of collegiate basketball.
 
 ### Contact me
 
