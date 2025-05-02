@@ -5,8 +5,6 @@ image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/mas
 subtitle: Don’t Stand for a Battle Until You Can Win
 ---
 
-*Originally published at [American Reformer](https://americanreformer.org/2024/05/the-smart-take-from-the-strong/) on May 23, 2024*
-
 The Cinderella story of the 1996 March Madness season was the Princeton Tigers. In a low-scoring game, they defeated the defending champions and college basketball juggernaut, UCLA Bruins, as a 14-seed in the first round of the NCAA tournament. Led by Hall of Fame coach, Pete Carril, the underdog Tigers employed what is now known as the Princeton offense which Carril summarized in a phrase “the strong take from the weak but the smart take from the strong.”
 
 The Princeton offense at its core is built around misdirection. The offense spreads out the defense and makes the defenders work before executing a timely backdoor cut. No player has the ball in their hands for very long, and it requires a lot of movement and passing. Essentially everything basketball is not today, and that is the point. Playing against the Princeton offense is supposed to confuse you, wear you down, lull you to sleep and then at the right moment, attack. Fundamentally, basketball is a game of runs and unlike other sports, the game is never decided by one big play but instead by a gradual victory, possession by possession. Or as my father would say on the sidelines, “To win the war, you have to win the battles.” The Princeton offense is certainly not for everyone. Frankly, it is best utilized by undersized and less athletic teams. For that reason, it can be highly effective for an underdog team to use against a favored opponent, which is why its principles perhaps could be relevant today for Christians.
@@ -27,5 +25,7 @@ Winning for Christians today will happen in unexpected, unglamorous ways, but th
 This Fabian Strategy aligns well with Renn’s proposed concept of cultural insurgency. We need to find places where we can attack and win no matter the supposed insignificance. Christians in every context should be asking themselves where they can win locally. We must choose the right hills to defend and not waste our time and resources elsewhere. Each win is important and should be celebrated. Visuals are highly important in this fight, especially in the battle for the normies. The scenes emerging from college campuses over the past week illustrate this well. As one coach famously put it, “You play to win the game” but Napoleon helpfully reminds us that “winning is not enough if one doesn’t take advantage of success.”
 
 Christians need to creatively consider what might be required in the coming years and act accordingly. Unlike the Benedict Option, the Fabian Strategy retains the military picture needed for today’s battle for America and prudentially gives a vision for Christians perhaps unlike the polemics of the Boniface Option. The true need of the day is a generation of Washingtons who not only possess the courage to act and confront evil but are daring enough to thoughtfully avoid conflict when necessary.
+
+*Originally published at [American Reformer](https://americanreformer.org/2024/05/the-smart-take-from-the-strong/) on May 23, 2024*
 
 ****
