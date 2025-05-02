@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Motherhood in America
-image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/theodore.jpeg
+image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/theodore.jpg
 subtitle: Why Motherhood Matters
 ---
 
