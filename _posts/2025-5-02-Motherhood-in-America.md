@@ -17,8 +17,4 @@ Keeperman is correct, women should not be told to have children simply for the s
 
 "No piled-up wealth, no splendor of material growth, no brilliance of artistic development, will permanently avail any people unless its home life is healthy, unless the average man possesses honesty, courage, common sense, and decency, unless he works hard and is willing at need to fight hard; and unless the average woman is a good wife, a good mother, able and willing to perform the first and greatest duty of womanhood, able and willing to bear, and to bring up as they should be brought up, healthy children, sound in body, mind, and character, and numerous enough so that the race shall increase and not decrease."
 
-
-
-
-
-
+***
