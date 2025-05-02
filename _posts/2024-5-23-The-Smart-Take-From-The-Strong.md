@@ -5,6 +5,8 @@ image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/mas
 subtitle: Don’t Stand for a Battle Until You Can Win
 ---
 
+*Originally published at [American Reformer](https://americanreformer.org/2024/05/the-smart-take-from-the-strong/) on May 23, 2024*
+
 The Cinderella story of the 1996 March Madness season was the Princeton Tigers. In a low-scoring game, they defeated the defending champions and college basketball juggernaut, UCLA Bruins, as a 14-seed in the first round of the NCAA tournament. Led by Hall of Fame coach, Pete Carril, the underdog Tigers employed what is now known as the Princeton offense which Carril summarized in a phrase “the strong take from the weak but the smart take from the strong.”
 
 The Princeton offense at its core is built around misdirection. The offense spreads out the defense and makes the defenders work before executing a timely backdoor cut. No player has the ball in their hands for very long, and it requires a lot of movement and passing. Essentially everything basketball is not today, and that is the point. Playing against the Princeton offense is supposed to confuse you, wear you down, lull you to sleep and then at the right moment, attack. Fundamentally, basketball is a game of runs and unlike other sports, the game is never decided by one big play but instead by a gradual victory, possession by possession. Or as my father would say on the sidelines, “To win the war, you have to win the battles.” The Princeton offense is certainly not for everyone. Frankly, it is best utilized by undersized and less athletic teams. For that reason, it can be highly effective for an underdog team to use against a favored opponent, which is why its principles perhaps could be relevant today for Christians.
