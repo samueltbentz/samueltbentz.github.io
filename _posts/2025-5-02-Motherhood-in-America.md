@@ -2,7 +2,7 @@
 layout: post
 title: Motherhood in America
 image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/theodore.jpg
-subtitle: The Civic Benefits of Motherhood
+subtitle: The Civic Good of Motherhood
 ---
 
 In a recent talk at the  Natal Conference, Jonathan Keeperman (otherwise known as Lomez) wisely warned of the danger of participating in the political discussion around having children. While courageously calling for the disbanding of the conference at which he spoke, Keeperman explained that the act of becoming a parent and starting a family ought to be natural and pre-political. "The miracle of having kids belongs to God, not to Caesar," he says. The Natal Conference has a particular eye towards the falling fertility rate in America and around the world. Given those alarming statistics, Keeperman acknowledges the danger of the demographic future of humanity but believes an effective response "requires stepping back from anxiety-driven politics and embracing a healthier, more natural relationship with parenthood itself." For Keeperman, the aim of having children is not to win a political contest by outbreeding the Left but rather embracing parenthood as an end unto itself.
