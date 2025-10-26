@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lift Up Your Voice
-image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/theodore.jpg
+image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/benton.jpg
 subtitle: The Return to Oral Culture
 ---
 
