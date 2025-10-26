@@ -6,17 +6,17 @@ subtitle: The Return to Oral Culture
 ---
 
 Our current Liberal age is undoubtedly beginning to disintegrate. In its wake, postliberal life may begin to resemble preliberal life in some ways. One such shift was observed by Paul Skallas, as a return to oral culture, rather than one of literacy. Otherwise known online as Lindyman and relying on the work of historian Walter Ong, Skallas characterizes literary cultures by their analytic and abstract thought, detailed in the form of books and the written word. This type of culture was made possible by the printing press, but before its invention, knowledge was more about what you can recall. Memorability is a key part of an oral culture, and cultural transmission therefore relies on repetition, polemics, and an experience.
- 
+
 If this cultural diagnosis seems off, consider how Charlie Kirk rose to prominence. Most people did not (and maybe still do not) know that Kirk had authored multiple books. His influence instead was primarily a result of his combative college campus tours, short video clips, podcasts and social media posts.
- 
+
 The advent of social media and digital technology has led to shorter attention spans, and the appetite for books and long-form writing (like this article) has decreased. The Financial Times reported earlier this year that nearly fifty percent of teenagers say they never read. Even social media posts, while textual in some forms, fit more into the oral culture framework.
- 
+
 The effects are not just online. The recent appeal of Eastern Orthodoxy and Catholicism amongst younger generations can at least partially be attributed to a renewed interest in "hard religion." The rituals and practices these traditions uphold requires physical engagement and actual attendance. However, preferring experiential rituals, videos, and podcasts over books does not necessarily mean people are looking for less substance. In fact, it is often the opposite. Even Gavin Ortlund recently noted that "the least seeker sensitive thing you can do right now is be seeker sensitive. People want the meat, they want the substance."
- 
+
 The emphasis on hierarchy, order and tradition in Eastern Orthodoxy and Catholicism is understandably attractive in a world desperate for the sacred. In a recent article at First Things, Kevin DeYoung commented on why some people leave Protestantism for Catholicism saying, "As Protestants, we would do well to think more deeply about how formality, tradition, structure, and space are critical supports in our commitment to worshiping a God who is high and lifted up and whose glory is beyond tracing out."
- 
+
 It was DeYoung who came up with the phrase "Moscow mood," describing Doug Wilson and company in Idaho. DeYoung inadvertently identified something salient and highly relevant to the shift in society as it returns to an age of oral culture. What seems to attract so many to Doug Wilson and the community in Moscow is not primarily their particular ideas or beliefs, but rather their fighting spirit and jolly demeanor. They are not only distinguished from other Christian communities: they are effective. Why? They know how to communicate in an oral culture. Canon Press and Wilson are often criticized for their combativeness, but conflict and repetition in their public communication, are key to their resonance. Not every pastor needs to have a very online presence of course, but we should not be surprised when the influence of someone like Wilson grows rapidly because he is where the people are, speaking and engaging with them in a way they can understand.
- 
+
 The prominence of a central figure, like Wilson in Moscow, makes for a more effective message in an oral culture. In written texts, people and personalities tend to matter less. But given that oral communication engages the senses more fully than the written word, "oral memory works effectively with 'heavy' characters, persons whose deeds are monumental, memorable and commonly public," as Ong explained. Trump's resounding victory in 2024 reinforces this point. It was not his specific policy proposals but the vitality and heaviness of Trump's persona that made him the preferable candidate.
 
 There are certainly reasons to lament the shift away from a culture of literacy, but whether we like it or not, people are increasingly being influenced and formed through mediums and methods that do not include books or precise, analytic thought. Instead, people are captured by personalities, experiences, and vibes, and the ideas follow along as a secondary consequence. Those trying to follow the rules of engagement in literary culture are mystified when their attempts at engagement are stifled.
