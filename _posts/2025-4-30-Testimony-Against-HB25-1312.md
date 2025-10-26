@@ -2,7 +2,7 @@
 layout: post
 title: Testimony Against HB25-1312
 image: https://raw.githubusercontent.com/samueltbentz/samueltbentz.github.io/master/images/capitol.jpeg
-subtitle: Don’t Stand for a Battle Until You Can Win
+subtitle: Submitted Written Testimony
 ---
 
 I strongly urge the State Senators of Colorado to oppose HB25-1312. The reasons are as follows:
