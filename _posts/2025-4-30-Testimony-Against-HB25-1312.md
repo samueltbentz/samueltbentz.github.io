@@ -18,4 +18,5 @@ Instead, honor God, serve the citizens of Colorado and protect the children of t
 Thank you.
 
 *Submitted written testimony against [HB25-1312: concerning legal protections for transgender individuals](https://leg.colorado.gov/bills/hb25-1312).*
+
 ***
