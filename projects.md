@@ -8,4 +8,4 @@ permalink: /projects/
 
 ### KJV Bible Reader
 
-[Link to site](https://github.com/samueltbentz/kjv-temp)
+[Link to site](https://samueltbentz.github.io/kjv-temp/)
