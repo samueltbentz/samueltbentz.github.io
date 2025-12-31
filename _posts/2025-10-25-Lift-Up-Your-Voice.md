@@ -27,4 +27,6 @@ Churches should also take this shift into account and consider the ways they wor
 
 The return to oral culture does not indicate the end of books, but it does mark a shift away from the written word. People are engaging with the world and thinking through the big questions of life in fundamentally different ways than they were even ten years ago. This new world functions with a different set of rules and tools. Protestant American Christians don't need to develop new rituals or practices to adapt, we instead need to confidently put forth the compelling practices and stories already present in our tradition, and have the courage to live publicly for Christ.
 
+*Originally published at [American Reformer](https://americanreformer.org/2025/10/lift-up-your-voice/) on October 28, 2025*
+
 ***
