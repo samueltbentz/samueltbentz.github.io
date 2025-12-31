@@ -19,4 +19,6 @@ Motherhood was traditionally respected and greatly valued as a social good in ou
 
 Keeperman's fundamental point is correct; women should not be told to have children simply for the sake of revitalizing America or winning a political contest. But it is, however, truthful and right to acknowledge that women who embrace motherhood as a vocation are doing our nation a great service. Children are not a burden or obstacle for women as they aim to make an impact on society, nor are they a means for a political end. Being a mother is a significant role, not only in the life of her children, but also in the life of a community. A woman devoted to her children and family has taken up a praiseworthy and noble task. We as a nation ought to honor and celebrate the responsibilities that come with the vocation of motherhood, especially when such a decision for a woman requires going against significant cultural headwinds. Though seemingly out of the public sphere, it is in the home where women leave an indelible mark, not only on their families and children, but also on the future of America.
 
+*Originally published at [American Reformer](https://americanreformer.org/2025/05/motherhood-in-america/) on May 9, 2025*
+
 ***
